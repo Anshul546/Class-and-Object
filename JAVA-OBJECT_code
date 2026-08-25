@@ -1,8 +1,0 @@
-public class Main {
-    public static void main(String[] args) {
-        Car myCar = new Car();   // Object created
-        myCar.color = "Red";
-        myCar.speed = 120;
-        myCar.drive();   // Calls method
-    }
-}
